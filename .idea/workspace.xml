@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Example1.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="jbr-11" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="22MM26hJkWU6yh2xcfihNuOWRVe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="jbr-11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.Chapter1">
+    <configuration name="Chapter1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.13" />
+      <option name="MAIN_CLASS_NAME" value="Example1" />
+      <module name="Java_OCP1_Project3" />
+      <option name="PROGRAM_PARAMETERS" value="$JDKPath$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Chapter1" />
+      <item itemvalue="Maven.JavaOCP1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Chapter1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ConradMaré\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="" />
+      <created>1639642804931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639642804931</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3.">
+      <created>1639663718544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639663718544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
+  </component>
+</project>
