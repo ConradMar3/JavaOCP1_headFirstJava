@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
+    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +27,7 @@
     <option name="jreName" value="jbr-11" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="22MM26hJkWU6yh2xcfihNuOWRVe" />
   <component name="ProjectViewState">
@@ -40,13 +40,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="jbr-11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaOCP1/Java_OCP1_v2.0" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
-  <component name="RunManager" selected="Application.Chapter1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Chapter1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.13" />
       <option name="MAIN_CLASS_NAME" value="Example1" />
@@ -57,12 +57,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_OCP1_Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Chapter1" />
       <item itemvalue="Maven.JavaOCP1" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Chapter1" />
       </list>
     </recent_temporary>
@@ -86,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639663718544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'">
+      <created>1641207708161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641207708161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +110,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -102,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
+    <MESSAGE value="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
   </component>
 </project>
