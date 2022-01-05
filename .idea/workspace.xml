@@ -4,8 +4,7 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'">
-      <change afterPath="$PROJECT_DIR$/src/Loopy.java" afterDir="false" />
+    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,16 @@
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Chapter1">
+  <component name="RunManager" selected="Application.Beer">
+    <configuration name="Beer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Beer" />
+      <module name="Java_OCP1_Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Chapter1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.13" />
       <option name="MAIN_CLASS_NAME" value="Example1" />
@@ -87,11 +95,13 @@
     <list>
       <item itemvalue="Application.Chapter1" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Maven.JavaOCP1" />
       <item itemvalue="Application.Loopy" />
+      <item itemvalue="Application.Beer" />
+      <item itemvalue="Maven.JavaOCP1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Beer" />
         <item itemvalue="Application.Loopy" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Chapter1" />
@@ -131,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641357424023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops).">
+      <created>1641358889969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641358889969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops).">
+      <created>1641378297720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641378297720</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2021/12/16 (pm)&#10;&#10;&quot;Head First Java. &quot; - Project 3." />
     <MESSAGE value="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
+    <MESSAGE value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops)." />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops)." />
   </component>
 </project>
