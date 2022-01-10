@@ -4,20 +4,11 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops ).">
-      <change afterPath="$PROJECT_DIR$/Chapter1/Excersises/Shuffle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/src/DogTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_OCP1_Project3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java_OCP1_Project3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/10 (pm)&#10;&#10;Chapter2 - dot.Operator">
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/GuessingGame/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/GuessingGame/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/src/GuessingGame/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Beer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Loopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,16 +65,7 @@
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
-  <component name="RunManager" selected="Application.DogTestDrive">
-    <configuration name="Beer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Beer" />
-      <module name="Java_OCP1_Project3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GameLauncher">
     <configuration name="Chapter1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.13" />
       <option name="MAIN_CLASS_NAME" value="Example1" />
@@ -97,6 +79,19 @@
     <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
       <module name="Chapter2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingGame.GameLauncher" />
+      <module name="Chapter2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GuessingGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,19 +126,19 @@
     <list>
       <item itemvalue="Application.Chapter1" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Beer" />
       <item itemvalue="Application.phraseOMatic" />
       <item itemvalue="Application.Shuffle1" />
       <item itemvalue="Maven.JavaOCP1" />
       <item itemvalue="Application.DogTestDrive" />
+      <item itemvalue="Application.GameLauncher" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameLauncher" />
         <item itemvalue="Application.DogTestDrive" />
         <item itemvalue="Application.Shuffle1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.phraseOMatic" />
-        <item itemvalue="Application.Beer" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641473958615</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2022/01/10 (pm)&#10;&#10;Chapter2 - dot.Operator">
+      <created>1641828944410</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641828944410</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +234,7 @@
     <MESSAGE value="2022/01/03 (pm)&#10;&#10;Chapter 1 - Example of 'main.java'" />
     <MESSAGE value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops)." />
     <MESSAGE value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops )." />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops )." />
+    <MESSAGE value="2022/01/10 (pm)&#10;&#10;Chapter2 - dot.Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/01/10 (pm)&#10;&#10;Chapter2 - dot.Operator" />
   </component>
 </project>
