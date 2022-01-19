@@ -4,11 +4,9 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/10 (pm)&#10;&#10;Chapter2 - GuessingGame">
-      <change afterPath="$PROJECT_DIR$/Chapter3/Chapter3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/src/objectReferences/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter3/src/usingReferences/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c8b62ef6-1f8e-43d2-a039-f332387036e2" name="Changes" comment="2022/01/11 (am)&#10;&#10;Chapter3 - primitivesAndReferences">
+      <change afterPath="$PROJECT_DIR$/Chapter3/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/src/Excersises/p86a_Books.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,12 +134,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.Chapter1" />
+      <item itemvalue="Application.DogTestDrive" />
+      <item itemvalue="Application.Dog" />
+      <item itemvalue="Application.GameLauncher" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Shuffle1" />
-      <item itemvalue="Application.DogTestDrive" />
-      <item itemvalue="Application.GameLauncher" />
       <item itemvalue="Maven.JavaOCP1" />
-      <item itemvalue="Application.Dog" />
     </list>
     <recent_temporary>
       <list>
@@ -221,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641831831570</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2022/01/11 (am)&#10;&#10;Chapter3 - primitivesAndReferences">
+      <created>1641888049709</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641888049709</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +260,7 @@
     <MESSAGE value="2022/01/04 (pm)&#10;&#10;Chapter 1 - mainMethods(integers/String etc.),&#10;Loops ( While loops )." />
     <MESSAGE value="2022/01/10 (pm)&#10;&#10;Chapter2 - dot.Operator" />
     <MESSAGE value="2022/01/10 (pm)&#10;&#10;Chapter2 - GuessingGame" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/01/10 (pm)&#10;&#10;Chapter2 - GuessingGame" />
+    <MESSAGE value="2022/01/11 (am)&#10;&#10;Chapter3 - primitivesAndReferences" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/01/11 (am)&#10;&#10;Chapter3 - primitivesAndReferences" />
   </component>
 </project>
